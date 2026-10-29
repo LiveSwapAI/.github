@@ -4,7 +4,7 @@
 
 LiveSwapAI makes real-time face swapping simple and accessible. Transform your appearance instantly with AI-powered face swapping technology for video calls, live streaming, and creative experiences.
 
-<img width="1271" height="848" alt="Screenshot 2026-10-29 at 11 38 31" src="https://github.com/user-attachments/assets/55921607-0adb-4c85-8a09-4f2a9ec9c1b4" />
+<img width="1235" height="608" alt="Screenshot 2026-10-29 at 11 38 31" src="https://github.com/user-attachments/assets/856c939b-a76f-4e2b-b6d4-bc57ca97346a" />
 
 
 ### Features
